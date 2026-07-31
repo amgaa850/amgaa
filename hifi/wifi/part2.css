@@ -1,0 +1,146 @@
+.container {
+  background-image: url("./HeroImage.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 773px;
+}
+.navigation {
+  height: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 110;
+}
+.en {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+}
+.menu {
+  display: flex;
+  gap: 24px;
+}
+.hero-image {
+  width: 100px;
+  height: 34px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 60px;
+}
+.await {
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+}
+.magic {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+.LAKE {
+  background-image: url("./Location image.png");
+  width: 1440px;
+  height: 512px;
+  display: flex;
+  gap: 65px;
+}
+.pic {
+  background-image: url("./1.png");
+  width: 275px;
+  height: 370px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pic2 {
+  background-image: url("2.png");
+  width: 275px;
+  height: 370px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pic3 {
+  background-image: url("3.png");
+  width: 275px;
+  height: 370px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pic4 {
+  background-image: url("4.png");
+  width: 275px;
+  height: 370px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.photo {
+  background-image: url("Roadmap\ image.png");
+  width: 1440px;
+  height: 1022px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.agency{
+  font-size: 25px;
+  display: flex;
+}
+.left-box{
+  background-color:transparent;
+  width: 513px;
+  height: 640px;
+  display: flex;
+  justify-content: end;
+}
+.ulaanbaatar{
+  background-color: beige;
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.day1{
+  background-color: white;
+  width: 52px;
+  height: 48px;
+  border-radius: 50px;
+  display: flex;
+align-items:flex-end;
+}
+.travel{
+  background-color:rgba(139, 184, 193, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.travel2{
+  background-color: rgba(170, 216, 215, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.travel3{
+  background-color: rgba(139, 192, 189, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.travel4{
+  background-color: rgba(151, 204, 224, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px; 
+}
